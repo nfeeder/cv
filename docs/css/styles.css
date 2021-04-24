@@ -3926,7 +3926,7 @@ input[type=button].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #bd5d38;
+  background-color: #888888;
 }
 
 .nav-fill > .nav-link,
@@ -6081,7 +6081,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #964a2c !important;
+  background-color: #ffffff !important;
 }
 
 .bg-secondary {
